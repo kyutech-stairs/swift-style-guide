@@ -1,2 +1,1 @@
-# swift-style-guide
-Swiftのコーディング規約
+# StairsのSwiftのコーディング規約
